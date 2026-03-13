@@ -64241,9 +64241,7 @@
         return Po();
       }
       function Po() {
-        return !/(^|\.)crazygames\.com$|(^|\.)kodub\.com$/.test(
-          location.hostname,
-        );
+        return false;
       }
       function Io() {
         let e;
