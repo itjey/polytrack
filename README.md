@@ -8,9 +8,9 @@ A low-poly racing game inspired by TrackMania. Drive through loops, jumps, and h
 
 ## About
 
-PolyTrack is an exhilarating driving game with a low-poly aesthetic featuring intense loops, jumps, and high-speed thrills where every millisecond is crucial. Build your own tracks or race on community-created ones.
+PolyTrack is an exhilarating driving game with a low-poly aesthetic featuring intense loops, jumps, and high-speed thrills where every millisecond is crucial. Build your own tracks or race on community-created ones. Includes experimental multiplayer support!
 
-This is version 0.4.1 of the open-source PolyTrack game, based on the original by [Kodub](https://kodub.itch.io/polytrack).
+This is version 0.6.0 of the open-source PolyTrack game, based on the original by [Kodub](https://kodub.itch.io/polytrack).
 
 ## Controls
 
